@@ -1,0 +1,34 @@
+/*
+ Theme Name: 	Santai Child Theme
+ Theme URI: 	http://crework.axiomthemes.com/
+ Description: 	Santai Child Theme
+ Author: 		Axiomthemes
+ Author URI: 	http://axiomthemes.com/
+ Template: 		crework
+ Version: 		1.0
+ License:      	GNU General Public License v2 or later
+ License URI:  	http://www.gnu.org/licenses/gpl-2.0.html 
+ Tags: 			flexible-header, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready
+ Text Domain: 	crework
+*/
+
+
+/* New CSS */
+footer .widget_contacts .contacts_logo{
+	width: 100px;
+}
+footer .widget_contacts .contacts_description{
+	margin-top: 2em;
+}
+footer .menu-links-container ul li{
+	width: 100% !important;
+	margin-right: 0 !important;
+}
+footer.scheme_default.footer_wrap .widget li a {
+    font-size: 14px;
+    font-weight: 500;
+}
+footer .widget .contacts_info .contacts_address,
+footer .widget .contacts_info .contacts_address a{
+	color: #222327;
+}
