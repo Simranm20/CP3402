@@ -5,7 +5,7 @@
 * VVV Vagrant Development environment
 * GitHub
 
-I have used an excellent WordPress to develop a child theme on the website by AxiomThemes
+I have used an excellent WordPress plugin to develop a child theme on the website by AxiomThemes
 For further changes, the child theme is located here: wp-content\themes\crework-child 
 and parent theme here: wp-content\themes\crework-parent
 
