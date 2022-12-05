@@ -5,19 +5,19 @@
 * VVV Vagrant Development environment
 * GitHub
 
-I have used an excellent WordPress to develop child theme on the website by AxiomThemes
+I have used an excellent WordPress to develop a child theme on the website by AxiomThemes
 For further changes, the child theme is located here: wp-content\themes\crework-child 
 and parent theme here: wp-content\themes\crework-parent
 
 ## Styling: ##
-I have added SASS to the WordPress child theme. We have used VS code as it supports SASS development. I then created File watcher so it detects for the changes in the SASS file and changes the output CSS automatically. I modified parent's theme to style the website according to the requirements provided by client.
+I have added SASS to the WordPress child theme. I have used VS code as it supports SASS development. I then created File watcher so it detects for the changes in the SASS file and changes the output CSS automatically. I modified parent's theme to style the website according to the requirements provided by client.
 
 ## Coloring ##
-According to the client's requirements, I were asked to go with black and tan colors as per circle on the logo provided by her, plus highlights from the colours in the window in the background of the logo which are pink and cyan colors.
+According to the client's requirements, I was asked to use pale turquoise, blues and sage greens as on the logo provided by the client. along with a white background with no bright colours.
  
 ## Deployment: ##
 **Vagrant**
-I have used Vagrant VVV as local deployment environment to develop the wordpress website and child theme
+I have used Vagrant VVV as my local deployment environment to develop the wordpress website and child theme
 
 *Vagrant - Terminal*
 
